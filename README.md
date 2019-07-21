@@ -8,7 +8,7 @@ This is a tiny hacked version of a simple collaborative editor. No thrills and
 definitely no super cow powers. Just an embarrassingly stupid HTML page with
 very littly JavaScript, barely enough to work together on small text exercises.
 
-![Screenshot](screenshot.png)
+<img src="screenshot.png" style="border: 1px solid grey" />
 
 Copyright
 ---------
