@@ -19,4 +19,4 @@ The whole source code is licensed as
 © 2016 Dennis Schulmeister-Zimolong
 
 E-Mail: [dhbw@windows3.de](mailto:dhbw@windows3.de) <br/>
-Website: https://www.wpvs.de/repo/firepad/open/
+Website: https://www.wpvs.de/#/firepad
